@@ -1,4 +1,4 @@
-### after source the two functions, do the following to make sure it works
+### After source the two functions, do the following to make sure it works
 set.seed(123)                    # set seed
 
 a <- makeCacheMatrix()           # create object "a"

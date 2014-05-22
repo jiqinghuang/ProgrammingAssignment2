@@ -5,7 +5,7 @@
 
 
 
-## this function is the initalize thep, and 
+## This function is the initalize thep, and 
 ## caches the inversed matrix if you run the function
 ## "cacheSolve".
 makeCacheMatrix <- function(x = matrix()) {
@@ -43,7 +43,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 
-## this function actually "solve" the inverse of
+## This function actually "solve" the inverse of
 ## the matrix defined in the above makeCacheMatrix 
 ## function, and store it in getinverse 
 ## if the getinverse is already computed, 
